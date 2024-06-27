@@ -6,7 +6,7 @@ def main(page:Page):
             Text( "LA MAQUINA",size=23,weight=FontWeight.W_600,color="#000000"),
             Text("zummmmmmmm",color="orange")
         ]),
-
+#sei la
         width=200,
         height=200,
         margin=margin.all(20),
